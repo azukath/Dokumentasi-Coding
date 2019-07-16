@@ -4,7 +4,7 @@ Dokumentasi Coding - Azka Taufiqul Hakim
 2. Avada
 3. E-voting-hmif
 
-//How to Install Run :
+//How to Install :
 
 1. Extarct zip in web server :
 
