@@ -28,13 +28,13 @@ Dokumentasi Coding - Azka Taufiqul Hakim
 
 		b) Wamp server :
 	
-	  	1. Run wamp server
+	  		1. Run wamp server
 		
-	  	2. Ceklist Module Apache and Mysql (optional)
+	  		2. Ceklist Module Apache and Mysql (optional)
 		
-	  	3. Open browser and write in address bar : localhost/name_folder
+	  		3. Open browser and write in address bar : localhost/name_folder
 		
-	  	4. Done
+	  		4. Done
 
 3. Import Database :
 	
